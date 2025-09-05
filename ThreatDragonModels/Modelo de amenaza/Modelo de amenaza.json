@@ -2,8 +2,8 @@
   "version": "2.5.0",
   "summary": {
     "title": "Modelo de amenaza",
-    "owner": "Luis Pablo Lagunes Noriega",
-    "description": "Sitio web de la biblioteca universitaria",
+    "owner": "EE Programación Segura",
+    "description": "El sitio web de la biblioteca universitaria es la primera implementación de un sitio web para brindar servicios en línea a los bibliotecarios y usuarios de la biblioteca (estudiantes y personal universitario). Como esta es la primera implementación del sitio web, la funcionalidad será limitada. Serán tres usuarios de la aplicación:\n1.\nEstudiantes\n2.\nPersonal\n3.\nBibliotecarios\nEl personal y los estudiantes podrán iniciar sesión y buscar libros, y los miembros del personal podrán solicitar libros. Los bibliotecarios podrán iniciar sesión, agregar libros, agregar usuarios y buscar libros.",
     "id": 0
   },
   "detail": {
